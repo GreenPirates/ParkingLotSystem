@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecb88224-6be1-44d7-8d11-a0cc7661261d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParkingLotSystem.iml" afterDir="false" />
+    <list default="true" id="ecb88224-6be1-44d7-8d11-a0cc7661261d" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/controllers/TicketControllers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/controllers/TicketControllers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/dto/GenerateTicketResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/dto/GenerateTicketResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/models/EntryGate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/models/EntryGate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/models/Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/models/Gate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/models/ParkingSpot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/models/ParkingSpot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/models/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/models/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/models/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/utkarsh/parkinglotsystem/models/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +57,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654434010511</updated>
-      <workItem from="1654434014508" duration="7772000" />
+      <workItem from="1654434014508" duration="13495000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1654444253022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654444253022</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>

@@ -6,4 +6,5 @@ public class EntryGate extends Gate {
     public EntryGate(DisplayBoard displayBoard) {
         this.displayBoard = displayBoard;
     }
+
 }
